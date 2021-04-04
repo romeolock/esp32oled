@@ -5,3 +5,5 @@ first install urequests from repl
 
 import upip
 upip.install('micropython-urequests')
+
+see WiKi => https://github.com/romeolock/esp32oled/wiki
